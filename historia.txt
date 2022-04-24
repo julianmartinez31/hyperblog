@@ -1,4 +1,6 @@
  Hola soy julian y tengo 26 años
  Por ahora vivo en cali y pronto en el socorro
- quiero ser data scientist.
+ quiero ser data scientist pronto.
  la cague con la extension y ahora voy a hacer mas cambios
+
+ Practica para comprobar el funcionamiento
